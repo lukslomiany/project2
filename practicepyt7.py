@@ -8,3 +8,4 @@ c = [x for x in a if x % 2 == 0 and x != 0]
 print(c)
 if len(b) > 2:
     print("dlugość b większa od dwóch cwiczenie gita")
+print("vgvhgchc")
